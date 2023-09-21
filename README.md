@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emran Kamil, and i am currenty a student of computer engineering at addis ababa universty. 
+- 👋 Hi, I’m Emran Kamil, and i am currenty a computer engineering student at addis ababa universty. 
 - 👀 I am a passionate software developer with a strong background in web development 
   and a love for creating innovative and interactive web applications.
 - 🌱  I am constantly exploring new technologies and methodologies to stay at the forefront of the ever-evolving tech landscape.
